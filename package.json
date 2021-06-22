@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/zigbee-s/voice-controlled-raspberryPI-pins-remotely/issues"
   },
-  "homepage": "https://github.com/zigbee-s/voice-controlled-raspberryPI-pins-remotely#readme"
+  "homepage": "https://github.com/zigbee-s/voice-controlled-raspberryPI-pins-remotely#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "onoff": "^6.0.3",
+    "socket.io": "^4.1.2"
+  }
 }

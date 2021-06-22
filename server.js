@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const options = {
 	key: fs.readFileSync('encryption/key.pem'),
-	cert: fs.readFileSync('emcryption/cert.pem')
+	cert: fs.readFileSync('encryption/cert.pem')
 };
 
 var server = require('https').createServer(options, app);  
