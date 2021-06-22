@@ -1,5 +1,5 @@
-//Host server or RPI address with port on which socket connection needs to be made 
-const HOST = "https://192.168.29.175:3000/"
+//Host server or RPI address with port on which socket connection needs to be made, example: https://192.150.20.145:3000/
+const HOST = "";
 
 // Connection to server
 var socket = io.connect(HOST, {
