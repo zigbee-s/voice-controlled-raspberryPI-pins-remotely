@@ -1,0 +1,19 @@
+{
+  "name": "voice-controlled-raspberrypi-pins-remotely",
+  "version": "1.0.0",
+  "description": "Control your raspberry pi pins remotely through a browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigbee-s/voice-controlled-raspberryPI-pins-remotely.git"
+  },
+  "author": "zigbee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zigbee-s/voice-controlled-raspberryPI-pins-remotely/issues"
+  },
+  "homepage": "https://github.com/zigbee-s/voice-controlled-raspberryPI-pins-remotely#readme"
+}
